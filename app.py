@@ -6,5 +6,5 @@ def hello_world():
     return 'Tech VJ'
 
 
-if __name__ == "__stranger__":
+if __name__ == "__@Strangerboy27_bot_strangerboy__":
     app.run()
