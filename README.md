@@ -2,7 +2,7 @@
   <img src="https://envs.sh/CQ7.jpg" alt="Stranger-boy -logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  Stranger boy Txt leech bot
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
