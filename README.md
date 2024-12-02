@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://envs.sh/CQ7.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://envs.sh/CQ7.jpg" alt="Stranger-boy -logo">
 </p>
 <h1 align="center">
   VJ TXT LEECH BOT
