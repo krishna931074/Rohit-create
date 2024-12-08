@@ -1,8 +1,8 @@
 # Don't Remove Credit Tg - @Rohit
 
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Strangerboy27_bot_strangerboy
 
-# Ask Doubt on telegram @Strangerboy27_bot 
+# Ask Doubt on telegram @Strangerboy27_bot_strangerboy
 
 
 
