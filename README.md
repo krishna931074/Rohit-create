@@ -11,11 +11,11 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-馃挐 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+馃挐 Credit Goes To [Rohit bot](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
 
 馃挅 And Thank You So Much To All Who Help In This Journey 馃挄
 
-Copyright 漏锔� [Tech VJ](https://telegram.me/Kingvj01)
+Copyright 漏锔� [Rohit bot](https://telegram.me/Kingvj01)
 
 </b>
 </details>
